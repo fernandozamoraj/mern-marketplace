@@ -1,0 +1,23 @@
+    1  git clone https://github.com/fernandozamoraj/JavaScriptForNewProgrammersCourse.git
+    2  pwd
+    3  ls
+    4  ls
+    5  rm -rf JavaScriptForNewProgrammersCourse/
+    6  mkdir dev
+    7  cd dev
+    8  git clone https://github.com/fernandozamoraj/JavaScriptForNewProgrammersCourse.git
+    9  clear
+   10  cd JavaScriptForNewProgrammersCourse/
+   11  ls
+   12  pwd
+   13  cd ..
+   14  git clone https://github.com/fernandozamoraj/mern-marketplace.git
+   15  git remote
+   16  cd mern-marketplace/
+   17  git status
+   18  git remote
+   19  git remote -v
+   20  pwd
+   21  clear
+   22  history
+   23  history | cat > his1May2020
